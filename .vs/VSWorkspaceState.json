@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\kh",
+    "\\src\\com\\kh\\toy",
+    "\\src\\com\\kh\\toy\\common",
+    "\\src\\com\\kh\\toy\\common\\code",
+    "\\WebContent",
+    "\\WebContent\\WEB-INF",
+    "\\WebContent\\WEB-INF\\views"
+  ],
+  "SelectedNode": "\\WebContent\\WEB-INF\\views\\index.jsp",
+  "PreviewInSolutionExplorer": false
+}
